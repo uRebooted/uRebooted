@@ -1,4 +1,4 @@
-## Olá, me chamo Guilherme Lima
+##Olá, me chamo Guilherme.
 
 💻・Student Computer Science
 📚・Learning Java
