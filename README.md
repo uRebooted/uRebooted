@@ -1,6 +1,6 @@
 ##Olá, me chamo Guilherme.
 
-~~~javascript
+~~~python
 💻・Student Computer Science
 📚・Learning Java
 📩・guilimakrv@gmail.com
