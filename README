@@ -1,11 +1,1 @@
-import Desenvolvedor from 'Rebooted';
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Guilherme';
-  area    = 'Desenvolvedor';
-  local = 'Brasil, SP';
-}
-
-class Skills extends Desenvolvedor {
-  linguagens  = ['Java'];
-}
