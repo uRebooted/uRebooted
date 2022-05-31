@@ -2,5 +2,5 @@
 
 ~~~java
 💻・Student Computer Science
-📚・Learning Java
+📚・Learning Java and MsQL
 
